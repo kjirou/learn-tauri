@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kjirou/learn-tauri/issues"
   },
-  "homepage": "https://github.com/kjirou/learn-tauri#readme"
+  "homepage": "https://github.com/kjirou/learn-tauri#readme",
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.0.0"
+  }
 }
